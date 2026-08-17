@@ -1,5 +1,4 @@
-# Creating a professional README.md content for the AtlasIT project
-readme_content = """# AtlasIT - Governance Suite
+# AtlasIT - Governance Suite
 
 <div align="center">
 
@@ -32,3 +31,4 @@ readme_content = """# AtlasIT - Governance Suite
    ```bash
    git clone [https://github.com/slw-z/AtlasIT.git](https://github.com/slw-z/AtlasIT.git)
    cd AtlasIT
+
